@@ -17,7 +17,7 @@ import websocket
 """
 MAX_RULES = 300
 MAX_WORD_RULES = 100
-VER = "5.68"
+VER = "5.130"
 
 
 def getServerUrl(access_token, proxy_host=None, proxy_port=None, ver=VER):
